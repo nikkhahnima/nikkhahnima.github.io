@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Nima Nikkhah
+Nima Nikkhah
 Web developer
 
 Show Contacts
